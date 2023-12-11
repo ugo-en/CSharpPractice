@@ -1,0 +1,14 @@
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\bin\Debug\net6.0\IfStatements.exe
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\bin\Debug\net6.0\IfStatements.deps.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\bin\Debug\net6.0\IfStatements.runtimeconfig.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\bin\Debug\net6.0\IfStatements.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\bin\Debug\net6.0\IfStatements.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfoInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfo.cs
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\refint\IfStatements.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\IfStatements.genruntimeconfig.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\IfStatements\obj\Debug\net6.0\ref\IfStatements.dll

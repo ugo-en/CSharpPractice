@@ -1,0 +1,14 @@
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.exe
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.deps.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\refint\BoxingUnboxing.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.genruntimeconfig.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\BoxingUnboxing\obj\Debug\net6.0\ref\BoxingUnboxing.dll

@@ -1,0 +1,14 @@
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\bin\Debug\net6.0\ForEachStatement.exe
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\bin\Debug\net6.0\ForEachStatement.deps.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\bin\Debug\net6.0\ForEachStatement.runtimeconfig.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\bin\Debug\net6.0\ForEachStatement.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\bin\Debug\net6.0\ForEachStatement.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.AssemblyInfoInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.AssemblyInfo.cs
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.csproj.CoreCompileInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\refint\ForEachStatement.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ForEachStatement.genruntimeconfig.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\ForEachStatement\obj\Debug\net6.0\ref\ForEachStatement.dll

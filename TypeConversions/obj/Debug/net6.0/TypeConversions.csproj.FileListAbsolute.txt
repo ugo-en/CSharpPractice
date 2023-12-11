@@ -1,0 +1,14 @@
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\bin\Debug\net6.0\TypeConversions.exe
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\bin\Debug\net6.0\TypeConversions.deps.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\bin\Debug\net6.0\TypeConversions.runtimeconfig.json
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\bin\Debug\net6.0\TypeConversions.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\bin\Debug\net6.0\TypeConversions.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.AssemblyInfo.cs
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\refint\TypeConversions.dll
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.pdb
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\TypeConversions.genruntimeconfig.cache
+C:\Users\ugoch\OneDrive\Documents\Private Learning\CSharpPractice\TypeConversions\obj\Debug\net6.0\ref\TypeConversions.dll
